@@ -1,6 +1,6 @@
 # Kalshi Market Maker (v1)
 
-A high-performance, passive market-making bot built in Rust for the Kalshi prediction market. This version is optimized for short-term event contracts (e.g., 15-minute Bitcoin markets) and focuses on capturing the spread while strictly managing inventory and risk.
+passive market-making bot built in Rust for the Kalshi prediction market. This version is optimized for short-term event contracts (e.g., 15-minute Bitcoin markets) and focuses on capturing the spread while strictly managing inventory and risk.
 
 ## Core Strategy
 This bot dynamically manages order placement across three tactical layers:
